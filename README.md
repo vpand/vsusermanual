@@ -1,0 +1,2 @@
+# vsusermanual
+VMPStudio user manual.
